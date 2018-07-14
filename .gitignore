@@ -74,3 +74,6 @@ typings/
 
 # mac
 .DS_Store
+
+# VS Code 
+.vscode/
